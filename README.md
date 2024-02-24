@@ -1,0 +1,1 @@
+![ADC](Imag.PNG)
